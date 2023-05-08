@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lava Texture by Andrea
+* source:	https://sketchfab.com/3d-models/lava-texture-by-andrea-0de8670d7f9548beac8f7263753fd74a
+* author:	WVSU CICT EMC (https://sketchfab.com/wvsucictemc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lava Texture by Andrea" (https://sketchfab.com/3d-models/lava-texture-by-andrea-0de8670d7f9548beac8f7263753fd74a) by WVSU CICT EMC (https://sketchfab.com/wvsucictemc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
